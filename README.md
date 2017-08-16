@@ -3,7 +3,7 @@
 ## Designing Educational Experiences with Jupyter Notebooks:
 
 ### Abstract:
-Poor documentation leads to poor understanding of a software. It is difficult to interpret other researchers' code without unequivocal documentation. *Jupyter Notebook* combines code and rich-text elements which allows the user to *effectively learn, modify and run the notebook*. Hence, we have designed a template Jupyter Notebook for more effective uses of resources via an *interactive learning*. This exemplary notebook is an efficient *learning tutorial for Basic Local Alignment Search Tool (BLAST)*. Basic Local Alignment Search Tool (BLAST) is a tool used to align sequences and find regions of similarity between them. This notebook teaches how to *run a BLAST search from within BioPython* and how to *compare and identify* unknown user provided biological sequences.
+Poor documentation leads to poor understanding of a software. It is difficult to interpret other researchers' code without unequivocal documentation. *Jupyter Notebook* combines code and rich-text elements which allows the user to *effectively learn, modify and run the notebook*. Hence, we have designed a template Jupyter Notebook for more effective uses of computational resources via an *interactive learning*. This exemplary notebook is an efficient *learning tutorial for Basic Local Alignment Search Tool (BLAST)*. Basic Local Alignment Search Tool (BLAST) is a tool used to align sequences and find regions of similarity between them. This notebook teaches how to *run a BLAST search from within BioPython* and how to *compare and identify* unknown user provided biological sequences.
 
 ### Dependencies:
 * Python 3 (packages such as BioPython, Macplotlib, Pandas)
