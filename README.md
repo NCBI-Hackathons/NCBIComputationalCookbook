@@ -12,7 +12,7 @@ Poor documentation leads to poor understanding of a software. It is difficult to
 ### Example user persona:
 User persona is written to accompolish the design of notebook, and help people learn, modify the notebook, and scale to larger problems:
 
-Sarah, an undergrad student (major biology) is taking one unit of web-based bioinformatics, and has little programming experience. She has to solve the following assignment:
+* Sarah, an undergrad student (major biology) is taking one unit of web-based bioinformatics, and has little programming experience. She has to solve the following assignment:
 
   * The goal is to determine if a recently-obtained genomic sequence from Drosophila yakuba (a
 relative of the model fruit fly Drosophila melanogaster) contains region(s) with sequence
