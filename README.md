@@ -2,15 +2,15 @@
 
 ## Designing Educational Experiences with Jupyter Notebooks:
 
-### Overview:
-Poor documentation leads to poor understanding of a software. Hence, we have designed a template Jupyter Notebook for more effective uses of resources via an interactive learning. 
+### Abstract:
+Poor documentation leads to poor understanding of a software. It is difficult to dig into other researchers' code without them being present to explain it, make changes and produce updated results.Hence, we have designed a template Jupyter Notebook for more effective uses of resources via an interactive learning. This Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, edit and run the notebook.Project Jupyter is an effort to expand the project to allow interactive notebooks to be written in other languages as well.
 
-### Strategy:
-
-![day2_notebookstrategy.png](/presentations/day2_notebookstrategy.png?raw=true "day2_notebookstrategy.png")
+### Dependencies:
+Python 3 (packages such as BioPython, Macplotlib, Pandas)
+Jupyter Notebook
 
 ### Goal:
-To create a tutorial for teaching how to run a BLAST search from within BioPython and how to compare and identify unknown user provided biological sequences. Basic Local Alignment Search Tool (BLAST) is a tool used to align sequences and find regions of similarity between them. This Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, edit and run the notebook.
+To create a tutorial for teaching how to run a BLAST search from within BioPython and how to compare and identify unknown user provided biological sequences. Basic Local Alignment Search Tool (BLAST) is a tool used to align sequences and find regions of similarity between them. 
 
 ### Example user persona:
 Sarah, an undergrad student (major biology) is taking one unit of web-based bioinformatics, and has little programming experience. She has to solve the following assignment:
@@ -21,7 +21,10 @@ similarity to any known genes. The unknown sequence is an 11,000 base pair (bp) 
 genomic DNA, and the objective of gene annotation is to find and precisely map the coding
 regions of any genes in this part of the genome.
 
-### Usage:-
+### Usage:
+Method (text & code)
+
+### Project Team:
 
 
 
