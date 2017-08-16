@@ -3,7 +3,7 @@
 ## Designing Educational Experiences with Jupyter Notebooks:
 
 ### Abstract:
-Poor documentation leads to poor understanding of a software. It is difficult to dig into other researchers' code without them being present to explain it, make changes and produce updated results.Hence, we have designed a template Jupyter Notebook for more effective uses of resources via an interactive learning. This Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, edit and run the notebook.Project Jupyter is an effort to expand the project to allow interactive notebooks to be written in other languages as well.
+Poor documentation leads to poor understanding of a software. It is difficult to understand other researchers' code without unequivocal documentation. Hence, we have designed a template Jupyter Notebook for more effective uses of resources via an interactive learning. This Jupyter Notebook combines code and rich-text elements which allows the user to effectively learn, edit and run the notebook.Project Jupyter is an effort to expand the project to allow interactive notebooks to be written in other languages as well.
 
 ### Dependencies:
 Python 3 (packages such as BioPython, Macplotlib, Pandas)
