@@ -20,7 +20,7 @@ similarity to any known genes. The unknown sequence is an 11,000 base pair (bp) 
 genomic DNA, and the objective of gene annotation is to find and precisely map the coding
 regions of any genes in this part of the genome.
 
-### Usage:
+### Method:
 ![Workflow_Jupyter.png](/presentations/Workflow_Jupyter.png?raw=true "Workflow_Jupyter.png")
 
 ### Project Team:
