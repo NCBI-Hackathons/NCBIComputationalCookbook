@@ -21,7 +21,7 @@ genomic DNA, and the objective of gene annotation is to find and precisely map t
 regions of any genes in this part of the genome.
 
 ### Usage:
-Method (text & code)
+![Workflow_Jupyter.png](NCBIComputationalCookbook/presentations/Workflow_Jupyter.png?raw=true "Workflow_Jupyter.png")
 
 ### Project Team:
 
