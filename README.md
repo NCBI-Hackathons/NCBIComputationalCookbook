@@ -25,6 +25,8 @@ Method (text & code)
 
 ### Project Team:
 
+Designing Educational Experiences with Jupyter Notebook was developed at NCBI-Hackathons, from August 14-August 16, 2017
+
 * Jason Williams, Cold Spring Harbor Laboratory , jasonjwilliamsny@gmail.com
 * Anmol Vohra, University of San Francisco, anmolvohra94@gmail.com
 * Kurtis Haro, NIH, kurtis.haro@nih.gov
