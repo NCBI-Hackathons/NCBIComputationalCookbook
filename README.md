@@ -25,6 +25,13 @@ Method (text & code)
 
 ### Project Team:
 
+* Jason Williams, Cold Spring Harbor Laboratory , jasonjwilliamsny@gmail.com
+* Anmol Vohra, University of San Francisco, anmolvohra94@gmail.com
+* Kurtis Haro, NIH, kurtis.haro@nih.gov
+* Michael Muchow, NIST, mrmuchow@gmail.com
+* Jean-Paul Courneya, University of Maryland, Health Sciences and Human Services Library, jpcourneya@hshsl.umaryland.edu
+* Dany Floisand, NIH, dany.floisand@gmail.com
+
 
 
 
